@@ -1,0 +1,56 @@
+body{
+    margin-right: 15px;
+}
+nav a*link {
+    margin-right: 13px;
+    display: block;
+    display:flex;
+}
+h1{
+    color: black;
+}
+nav h2{
+    background-color: rgb(5, 20, 68);
+    color:white;
+    padding: 30px;
+    font-size:25px;
+    margin-right: 15px;
+    border: none;
+}
+div p{
+color:rgb(43, 31, 31)
+}
+.box button { padding :0%;
+    background-color: rgb(76, 63, 148);
+    color: rgb(4, 5, 3);
+    margin: 0%;
+    border:15px;
+    display: flex;
+    display: inline;
+    border: none;
+}
+
+.link{
+    list-style-type: none;
+    padding: 0%;
+    margin: 0%;
+}
+li{
+    float:right;
+}
+li a{
+    color: rgb(65, 1, 167);
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+.box{
+    align:inline-block;
+    padding: 20px;
+
+}
+.image{
+    margin-top:-300px ;
+    padding-bottom: 500px;
+}
